@@ -1,0 +1,64 @@
+com/example/licenta/BuildConfig.java
+ com.example.licenta.BuildConfig
+com/example/licenta/databinding/AlertDialogExerciseBinding.java
+ com.example.licenta.databinding.AlertDialogExerciseBinding
+com/example/licenta/databinding/FragmentMapsBinding.java
+ com.example.licenta.databinding.FragmentMapsBinding
+com/example/licenta/databinding/MealItemHolderBinding.java
+ com.example.licenta.databinding.MealItemHolderBinding
+com/example/licenta/databinding/FragmentFoodBinding.java
+ com.example.licenta.databinding.FragmentFoodBinding
+com/example/licenta/databinding/ItemHolderAddFoodBinding.java
+ com.example.licenta.databinding.ItemHolderAddFoodBinding
+com/example/licenta/databinding/FragmentSearchBinding.java
+ com.example.licenta.databinding.FragmentSearchBinding
+com/example/licenta/databinding/FragmentExerciseBinding.java
+ com.example.licenta.databinding.FragmentExerciseBinding
+com/example/licenta/databinding/ActivityLoginBinding.java
+ com.example.licenta.databinding.ActivityLoginBinding
+com/example/licenta/databinding/ItemHolderExerciseBinding.java
+ com.example.licenta.databinding.ItemHolderExerciseBinding
+com/example/licenta/databinding/MealFoodItemHolderBinding.java
+ com.example.licenta.databinding.MealFoodItemHolderBinding
+com/example/licenta/databinding/FragmentRecordsBinding.java
+ com.example.licenta.databinding.FragmentRecordsBinding
+com/example/licenta/databinding/ActivityMainBinding.java
+ com.example.licenta.databinding.ActivityMainBinding
+com/example/licenta/databinding/DialogAddExerciseBinding.java
+ com.example.licenta.databinding.DialogAddExerciseBinding
+com/example/licenta/databinding/ActivityScanBarcodeBinding.java
+ com.example.licenta.databinding.ActivityScanBarcodeBinding
+com/example/licenta/databinding/ActivityRegisterBinding.java
+ com.example.licenta.databinding.ActivityRegisterBinding
+com/example/licenta/databinding/FragmentPostsBinding.java
+ com.example.licenta.databinding.FragmentPostsBinding
+com/example/licenta/databinding/ActivityAddCustomExerciseBinding.java
+ com.example.licenta.databinding.ActivityAddCustomExerciseBinding
+com/example/licenta/databinding/DialogEditExerciseRecordBinding.java
+ com.example.licenta.databinding.DialogEditExerciseRecordBinding
+com/example/licenta/databinding/FragmentConnectionsBinding.java
+ com.example.licenta.databinding.FragmentConnectionsBinding
+com/example/licenta/databinding/ActivityAddFoodBinding.java
+ com.example.licenta.databinding.ActivityAddFoodBinding
+com/example/licenta/databinding/ActivityAddExerciseBinding.java
+ com.example.licenta.databinding.ActivityAddExerciseBinding
+com/example/licenta/databinding/DialogEditSelectedFoodBinding.java
+ com.example.licenta.databinding.DialogEditSelectedFoodBinding
+com/example/licenta/databinding/ItemHolderExerciseRecordBinding.java
+ com.example.licenta.databinding.ItemHolderExerciseRecordBinding
+com/example/licenta/databinding/ActivitySetGoalsBinding.java
+ com.example.licenta.databinding.ActivitySetGoalsBinding
+com/example/licenta/databinding/ActivityRegisterFoodToDbBinding.java
+ com.example.licenta.databinding.ActivityRegisterFoodToDbBinding
+com/example/licenta/databinding/FragmentHomeBinding.java
+ com.example.licenta.databinding.FragmentHomeBinding
+com/example/licenta/databinding/ActivityFoodInfoBinding.java
+ com.example.licenta.databinding.ActivityFoodInfoBinding
+com/example/licenta/databinding/ActivityLoadingBinding.java
+ com.example.licenta.databinding.ActivityLoadingBinding
+com/example/licenta/databinding/FragmentProfileBinding.java
+ com.example.licenta.databinding.FragmentProfileBinding
+com/example/licenta/databinding/FragmentDiaryBinding.java
+ com.example.licenta.databinding.FragmentDiaryBinding
+com/example/licenta/databinding/FragmentGoalsBinding.java
+ com.example.licenta.databinding.FragmentGoalsBinding
